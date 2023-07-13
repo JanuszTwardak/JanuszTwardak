@@ -12,7 +12,7 @@
 - 👨🏻‍💻 I’m working in Prediction and Planning for Autonomous Driving team in Stellantis  
   
 
-- 🎓 B.Sc. in Quantum Engineering at Wroclaw University of Science and Technology (soon)  
+- 🎓 B.Sc. in Quantum Engineering at Wroclaw University of Science and Technology
   
 
     📃 B.Sc. thesis &#8594; *Application of self-supervised machine learning in high energy physics*  
