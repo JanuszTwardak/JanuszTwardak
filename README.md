@@ -6,22 +6,16 @@
 </div>  
   
 
-### <div align="center">I'm Janusz, an AI Engineer from Wroclaw, Poland 🚀</div>  
+### <div align="center">Janusz, AI Engineer from Wroclaw, Poland 🚀</div>  
   
 
-- 👨🏻‍💻 I’m working in Prediction and Planning for Autonomous Driving team in Stellantis  
-  
-
-- 🎓 B.Sc. in Quantum Engineering at Wroclaw University of Science and Technology
-  
-
-    📃 B.Sc. thesis &#8594; *Application of self-supervised machine learning in high energy physics*  
+- 👨🏻‍💻 I’m working in Prediction and Planning for Autonomous Driving team in Stellantis
   
 
 - 🏢 former CERN External Participant to the experiment  
   
 
-    💥 ATLAS Forward Proton project &rarr; anomaly detection in diffractive events using ML  
+    💥 ATLAS Forward Proton project &rarr; anomaly detection in diffractive events using ML
   
 <i class="devicon-python-plain-wordmark"></i>
 <br/>  
